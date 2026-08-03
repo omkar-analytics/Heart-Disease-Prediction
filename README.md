@@ -51,10 +51,7 @@ The project includes:
 
 | Model | Accuracy |
 |--------|----------|
-| Logistic Regression | xx% |
-| Decision Tree | xx% |
-| Random Forest | xx% |
-| KNN | xx% |
+| Random Forest | 91.80% |
 
 
 
