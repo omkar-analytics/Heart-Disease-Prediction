@@ -18,8 +18,8 @@ The project includes:
 ## 📊 Dataset
 
 - Source: UCI Heart Disease Dataset
-- Total Records: xxx
-- Features: xx
+- Total Records: 1015
+- Features: 14
 - Target Variable:
   - 0 = No Heart Disease
   - 1 = Heart Disease
